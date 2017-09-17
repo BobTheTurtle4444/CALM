@@ -24,10 +24,10 @@ facebook_username: StartBootstrap
 #linkedin_url: https://
 
 # Address information
-address_street: 3034 Melrose Place
-address_city: Beverly Hills
+address_street: Fremont High School
+address_city: Cupertino
 address_state: CA
-address_zip: 90201
+address_zip: 95014
 
 # Build settings
 markdown: kramdown
